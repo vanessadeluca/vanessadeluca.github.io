@@ -1,5 +1,5 @@
 $(function() {
-    let randomNumber = Math.floor(Math.random()*4);
+    let randomNumber = Math.floor(Math.random()*5);
     console.log(randomNumber);
 
     // $(".main-section").css("background", `linear-gradient(to right, transparent, #1B1822), url(../images/header-image${randomNumber}.jpg);`);
